@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AM Darshan
-- 👀 I’m interested in Full stack Web Development and have problem solving sills.
+- 👀 I’m interested in Full stack Web Development and have problem solving skills.
 - 🌱 I’m currently a Under Grad, pursuing Computer Scinece Engineering at BIT.
 - 💞️ I’m looking to collaborate with fellow web developers or companies who require those skills and Compitative programmers.
 - 📫 How to reach me, LinkedIn: https://www.linkedin.com/in/am-darshan/
