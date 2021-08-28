@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AM-Darshan
+- 👋 Hi, I’m AM Darshan
 - 👀 I’m interested in Full stack Web Development and have problem solving sills.
 - 🌱 I’m currently a Under Grad, pursuing Computer Scinece Engineering at BIT.
 - 💞️ I’m looking to collaborate with fellow web developers or companies who require those skills and Compitative programmers.
