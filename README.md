@@ -12,6 +12,8 @@
 [![Twitter Badge](http://img.shields.io/badge/-@amdarshan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamDarshanAM/)](https://twitter.com/iamDarshanAM/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:myspace.amd@gmail.com)](mailto:myspace.amd@gmail.com)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=AM-Darshan)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
 <br>
@@ -19,8 +21,6 @@
 [![AM Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AmDarshan&theme=Light)](https://leetcode.com/AmDarshan/)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=AM-Darshan)
 
 <!---
 AM-Darshan/AM-Darshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
