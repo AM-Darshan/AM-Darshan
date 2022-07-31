@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 **Glad to see you here!** :star_struck: a Web Developer and C++/Java Programmer 🚀 . <br> <br> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-AMDarshan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/am-darshan/)](https://www.linkedin.com/in/am-darshan/)
+[![Linkedin Badge](https://img.shields.io/badge/-AM Darshan-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/am-darshan/)](https://www.linkedin.com/in/am-darshan/)
 [![Twitter Badge](http://img.shields.io/badge/-@amdarshan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamDarshanAM/)](https://twitter.com/iamDarshanAM/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:myspace.amd@gmail.com)](mailto:myspace.amd@gmail.com)
 
