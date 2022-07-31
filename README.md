@@ -13,9 +13,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:myspace.amd@gmail.com)](mailto:myspace.amd@gmail.com)
 
 
-## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
-
+<br>
+[![AM Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AmDarshan&theme=Dark)]
 ## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
 
