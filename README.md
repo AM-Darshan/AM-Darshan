@@ -17,10 +17,11 @@
 <br>
 <br>
 [![AM Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AmDarshan&theme=Light)](https://leetcode.com/AmDarshan/)
-## Most Used Languages
+
+<br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
 
-## Profile View Counter
+<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AM-Darshan)
 
 <!---
