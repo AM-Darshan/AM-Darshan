@@ -12,16 +12,16 @@
 [![Twitter Badge](http://img.shields.io/badge/-@amdarshan-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/iamDarshanAM/)](https://twitter.com/iamDarshanAM/) 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:myspace.amd@gmail.com)](mailto:myspace.amd@gmail.com)
 
-![AM Darshan's github stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true&hide_border=true)
 
-
-## 1. GitHub Stats
+## GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
-## 2. Most Used Languages
+
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
 
-## 5. Profile View Counter
+## Profile View Counter
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AM-Darshan)
+
 <!---
 AM-Darshan/AM-Darshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
