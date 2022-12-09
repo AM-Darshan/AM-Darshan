@@ -18,7 +18,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
 <br>
 <br>
-[![AM Darshan's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=AmDarshan&theme=Light)](https://leetcode.com/AmDarshan/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmDarshan?theme=unicorn&font=Inter&ext=heatmap)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
 
