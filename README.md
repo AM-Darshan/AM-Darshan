@@ -13,10 +13,11 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AM-Darshan" alt=""></p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
-### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm [AM Darshan](https://github.com/AM-Darshan) 
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm AM Darshan</h1>
+
 ### :woman_technologist: &nbsp;About Me :
 I am Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and C++/Java Programmer 🚀 . <br> <br> 
 
