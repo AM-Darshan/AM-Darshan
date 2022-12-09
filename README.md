@@ -18,9 +18,7 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
 <br>
 <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/AmDarshan?theme=unicorn&font=Inter&ext=heatmap)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&theme=blue-green)
+![LeetCode Stats](https://leetcard.jacoblin.cool/AmDarshan?theme=dark&font=Inter&ext=heatmap)
 
 <!---
 AM-Darshan/AM-Darshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
