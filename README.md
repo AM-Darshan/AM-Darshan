@@ -1,16 +1,16 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/am-darshan"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+   <a href="mailto:myspace.amd@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://twitter.com/iamDarshanAM/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:myspace.amd@gmail.com">
-      <img src=" https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
- 
 </div> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=AM-Darshan" alt=""></p>
 
+---
 ### Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm [AM Darshan](https://github.com/AM-Darshan) 
 ### :woman_technologist: &nbsp;About Me :
 I am Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and C++/Java Programmer 🚀 . <br> <br> 
