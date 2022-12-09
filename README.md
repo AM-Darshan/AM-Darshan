@@ -47,8 +47,9 @@ I am Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### 🔥 &nbsp; My Stats :
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=AM-Darshan&show_icons=true)
 <br>
-<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AmDarshan?theme=dark&font=Inter&ext=heatmap)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AM-Darshan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 AM-Darshan/AM-Darshan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
